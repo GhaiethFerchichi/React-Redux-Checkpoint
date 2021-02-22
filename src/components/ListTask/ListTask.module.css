@@ -1,0 +1,9 @@
+.TaskList {
+  padding: 3px;
+  border: 6px solid rgb(194, 106, 47);
+  border-radius: 9px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.AddTaskDiv {
+  margin: 10px;
+  padding: 3px;
+  border: 1px solid;
+}
+
+.AddTaskDiv * {
+  margin: 2px;
+}
